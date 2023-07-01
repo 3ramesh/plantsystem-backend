@@ -1,0 +1,23 @@
+Personal Details:
+Name: Ramesh Jamakatel
+Phone: +977-9860584649
+email: 3jamakatel@gmail.com
+
+Application: Rest API
+Virtual Plant power system
+JDK version: 1.8
+Build IDE: IntelliJ IDEA
+Build Tool: Maven
+Database: mysql
+Swagger Implementation
+
+#NOTE: Before run the application change User Database url, name: plant_system,
+ username and password in application.properties files.
+
+For Test.
+use Swagger or postman.
+no need to postman. Just open maven after successfully run the application open following url in your browser.
+http://localhost:8080/plant-system/swagger-ui.html#/
+
+#Also note: There are three extra ApI which is asked in questions.
+
